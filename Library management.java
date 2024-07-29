@@ -83,7 +83,7 @@ public static void main(String[] args) {
 			}
 			else
 			{
-				System.out.println("ERROR! MARUNGA ITNA PTA NHI KITNA");
+				System.out.println("ERROR!");
 				break;
 			}
 		}
@@ -91,7 +91,7 @@ public static void main(String[] args) {
 	}
 	else 
 	{
-		System.out.println("kon h bhai tu");	
+		System.out.println("Who are you?");	
 	}
 	
 }
